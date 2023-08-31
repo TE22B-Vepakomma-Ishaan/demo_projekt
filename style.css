@@ -1,0 +1,58 @@
+/*
+selector (element){ (alt-gr+7)
+egenskap1:värde1;
+egenskap2:värde2;
+
+}(alt-gr+8)
+
+*/
+
+
+h1{
+
+    color: coral;
+    background-color: lightblue;
+
+}
+
+h2{
+
+    color: aquamarine;
+
+}
+
+body{
+
+color: black;
+background-image: url("https://htmlcolorcodes.com/assets/images/colors/baby-blue-color-solid-background-1920x1080.png");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+img{
+
+    image-resolution: 60;
+    
+}
+
+ul{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 60px;
+}
+
+h3{
+
+    gap: 50px;
+}
+
+
+#fisk{
+    height: 400px;
+    width: auto;
+    animation: ease-in;
+    animation-duration: 500000s;
+
+}
